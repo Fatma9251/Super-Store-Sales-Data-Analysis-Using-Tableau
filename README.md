@@ -1,2 +1,12 @@
-# Super-Store-Sales-Data-Analysis-Using-Tableau
-Performed interactive sales analysis on the Superstore dataset using Tableau. Visualized key metrics like total sales, profit, and quantity sold. Uncovered regional and sub-category trends, profit margins, and return patterns. Dashboard includes filters for deep exploration.
+# Superstore Sales Analysis using Tableau
+
+This project provides a detailed sales data analysis for the Superstore dataset using Tableau. The goal was to uncover performance trends, highlight return patterns, and provide actionable insights to improve sales strategies.
+
+---
+
+## 🛠️ Tools Used
+
+- **Tableau Desktop**
+- **Superstore Sales Dataset (CSV)**
+
+
